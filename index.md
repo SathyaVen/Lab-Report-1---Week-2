@@ -7,5 +7,5 @@ The site should look like this:
 
 Finally, download the appropriate version of VS Code.
 
-#Remotely Connecting
+## Remotely Connecting
 
