@@ -19,3 +19,9 @@ If you're on Windows, install OpenSSH using this link: [Open SSH Download](https
 Next, find your lab account for CSE15L by Using this link:  [Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)
 
 Open a new terminal on VS code (Command + Option + Control + Shift'  for Mac) or (Ctrl+' for Windows)
+
+Type the following command:
+
+`$ ssh cs15lsp22zz@ieng6.ucsd.edu`
+
+(with the "zz" replaced by your specific characters)
