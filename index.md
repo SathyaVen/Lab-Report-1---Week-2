@@ -14,4 +14,7 @@ You should see something similar to this when opening VS code:
 
 
 ## Remotely Connecting
+If you're on Windows, install OpenSSH using this link: [Open SSH Download](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
+
+Next, find your lab account for CSE15L by Using this link:  [Account Lookup](https://sdacs.ucsd.edu/~icc/index.phpe)
 
