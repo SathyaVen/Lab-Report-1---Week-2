@@ -25,3 +25,7 @@ Type the following command:
 `$ ssh cs15lsp22zz@ieng6.ucsd.edu`
 
 (with the "zz" replaced by your specific characters)
+
+You will likely be prompted authenticity message, enter yes.
+
+Then, type in your password for your AD login. You will not see the characters fill in as you type.
