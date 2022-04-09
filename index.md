@@ -33,3 +33,19 @@ Then, type in your password for your AD login. You will not see the characters f
 If done correctly, you will see something like this in your terminal:
 
 ![Image](https://github.com/SathyaVen/Lab-Report-1---Week-2/blob/876732b8bd4714f18106e7f28f8d498067cbb55e/Screen%20Shot%202022-04-08%20at%2011.43.44%20AM.png)
+
+## Trying Some Commands
+
+There are various commands you can use once logged in.
+
+`ls`	Shows the contents of the directory
+`cd`	Changes the directory
+`mkdir`	Creates a new directory
+`touch`	Creates a new file.
+`rm`	Removes a file.
+`cat`	Shows the contents of a file.
+`pwd`	Shows the current directory 
+`cp`	Copies file
+`mv`	Moves file
+
+
