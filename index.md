@@ -114,6 +114,24 @@ This is an example of using `ssh` after creating ssh keys.
 
 ![Image](https://i.ibb.co/Qk36mcP/Screen-Shot-2022-04-09-at-4-17-45-PM.png)
 
+## Optimizing Remote Running
+
+There are ways to optimize how you run commands. Here are a few tips 
+
+-Writing a command in quotes runs the command and after quits, an example is:
+
+  -`ssh cs15lsp22zz@ieng6.ucsd.edu "ls"`
+
+-Semicolons allow you to run multiple commands in one line.
+
+  -`cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`
+
+-Click the up arrow to enter the previously entered command.
+
+Here is an example of running multiple commands in one line:
+
+![Image](https://i.ibb.co/Qk36mcP/Screen-Shot-2022-04-09-at-4-17-45-PM.png)
+
 
 
 
