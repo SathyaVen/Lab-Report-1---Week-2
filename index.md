@@ -118,15 +118,15 @@ This is an example of using `ssh` after creating ssh keys.
 
 There are ways to optimize how you run commands. Here are a few tips 
 
--Writing a command in quotes runs the command and after quits, an example is:
+* Writing a command in quotes runs the command and after quits, an example is:
 
    -`ssh cs15lsp22zz@ieng6.ucsd.edu "ls"`
 
--Semicolons allow you to run multiple commands in one line.
+* Semicolons allow you to run multiple commands in one line.
 
    -`cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`
 
--Click the up arrow to enter the previously entered command.
+* Click the up arrow to enter the previously entered command.
 
 Here is an example of running multiple commands in one line:
 
