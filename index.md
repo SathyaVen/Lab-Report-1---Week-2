@@ -58,3 +58,7 @@ There are various commands you can use once logged in.
 
 Here is an example of one of the commands:
 ![Image](https://github.com/SathyaVen/Lab-Report-1---Week-2/blob/80cbbdd9e2c47e18e79a26334d705df7d0ee7388/Screen%20Shot%202022-04-08%20at%205.32.46%20PM.png)
+
+## Moving Files with `scp`
+The command `scp` allows us to copy files back an forth between the client and server computer
+
