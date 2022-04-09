@@ -112,7 +112,7 @@ The commands `ssh` and `scp` should now work without a password.
 
 This is an example of using `ssh` after creating ssh keys.
 
-![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-08-at-6.38.18-PM.png)
+![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-08-at-11.43.44-AM_2.png)
 
 
 
