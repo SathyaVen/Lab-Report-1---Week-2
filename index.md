@@ -3,13 +3,13 @@ Navigate to this link: [VS Code Download](https://code.visualstudio.com/Download
 
 The site should look like this:
 
-![Image](https://github.com/SathyaVen/Lab-Report-1---Week-2/blob/ddcc8c0b435af1688f18b26fa7be8d8c665b6bf9/Screen%20Shot%202022-04-08%20at%2011.00.09%20AM.png)
+![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-08-at-11.00.09-AM.png)
 
 Finally, download the appropriate version of VS Code and follow the prompted steps.
 
 You should see something similar to this when opening VS code:
 
-![Image](https://github.com/SathyaVen/Lab-Report-1---Week-2/blob/227b22c83d06a9d3f7fc9c9e6277e2036508455b/Screen%20Shot%202022-04-08%20at%2011.19.29%20AM.png)
+![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-08-at-11.19.29-AM.png)
 
 
 
@@ -57,7 +57,7 @@ There are various commands you can use once logged in.
 * `mv`	Moves file
 
 Here is an example of one of the commands:
-![Image](https://github.com/SathyaVen/Lab-Report-1---Week-2/blob/80cbbdd9e2c47e18e79a26334d705df7d0ee7388/Screen%20Shot%202022-04-08%20at%205.32.46%20PM.png)
+![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-08-at-5.32.46-PM.png)
 
 ## Moving Files with `scp`
 The command `scp` allows us to copy files back an forth between the client and server computer.
@@ -87,6 +87,6 @@ Finally, compile and run HelloWorld.java on the server and observe the output.
 
 Here is an example of the output on the server:
 
-![Image](https://github.com/SathyaVen/Lab-Report-1---Week-2/blob/2f9cf2018901ebecf28453c05a9f186f5c12739b/Screen%20Shot%202022-04-08%20at%206.38.18%20PM.png)
+![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-08-at-6.38.18-PM.png)
 
   
