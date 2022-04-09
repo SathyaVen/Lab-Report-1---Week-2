@@ -38,22 +38,20 @@ If done correctly, you will see something like this in your terminal:
 
 There are various commands you can use once logged in.
 
-*`ls`	Shows the contents of the directory
+* `ls`	Shows the contents of the directory
 
-*`cd`	Changes the directory
+* `cd`	Changes the directory
 
-*`mkdir`	Creates a new directory
+* `mkdir`	Creates a new directory
 
-*`touch`	Creates a new file.
+* `touch`	Creates a new file.
 
-*`rm`	Removes a file.
+* `rm`	Removes a file.
 
-*`cat`	Shows the contents of a file.
+* `cat`	Shows the contents of a file.
 
-*`pwd`	Shows the current directory 
+* `pwd`	Shows the current directory 
 
-*`cp`	Copies file
+* `cp`	Copies file
 
-*`mv`	Moves file
-
-
+* `mv`	Moves file
