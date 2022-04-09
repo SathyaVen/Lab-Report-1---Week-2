@@ -81,7 +81,7 @@ Run WhereAmI.java in VS Code and observe the output. Then enter the command on y
   
 Enter your AD password as prompted.
 
-The file has been copied to the server, use the ls command to view it in the directory.
+The file has been copied to the server, use the `ls` command to view it in the directory.
 
 Finally, compile and run HelloWorld.java on the server and observe the output.
 
