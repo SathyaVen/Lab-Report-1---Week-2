@@ -65,7 +65,9 @@ The command `scp` allows us to copy files back an forth between the client and s
 Create a file called HelloWorld.java, and copy the following into it:
 
 `class HelloWorld {
+
   public static void main(String[] args) {
+  
     System.out.println(System.getProperty("os.name"));`
 
 
