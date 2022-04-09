@@ -72,11 +72,18 @@ Create a file called HelloWorld.java, and copy the following into it:
     
     } 
 
-Run HelloWorld.java in VS Code and observe the output. Then enter the command:
+Run HelloWorld.java in VS Code and observe the output. Then enter the command on your computer:
 
-`scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/` 
+`scp HelloWorld.java cs15lsp22zz@ieng6.ucsd.edu:~/` 
 
 (with the "zz" replaced by your specific characters)
   
-  
+Enter your AD password as prompted.
+
+The file has been copied to the server, use the ls command to view it in the directory.
+
+Finally, compile and run HelloWorld.java on the server and observe the output.
+
+
+
   
