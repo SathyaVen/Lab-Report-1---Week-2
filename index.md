@@ -22,7 +22,7 @@ Open a new terminal on VS code (Command + Option + Control + Shift'  for Mac) or
 
 Type the following command:
 
-`$ ssh cs15lsp22zz@ieng6.ucsd.edu`
+`ssh cs15lsp22zz@ieng6.ucsd.edu`
 
 (with the "zz" replaced by your specific characters)
 
@@ -52,9 +52,9 @@ There are various commands you can use once logged in.
 
 * `pwd`	Shows the current directory 
 
-* `cp`	Copies file
+* `cp`	Copies a file
 
-* `mv`	Moves file
+* `mv`	Moves a file
 
 Here is an example of one of the commands:
 ![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-08-at-5.32.46-PM.png)
@@ -88,5 +88,33 @@ Finally, compile and run HelloWorld.java on the server and observe the output.
 Here is an example of the output on the server:
 
 ![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-08-at-6.38.18-PM.png)
+
+## Setting an SSH Key
+SSH keys allow us to login to the server computer without the need of a password. 
+
+In order to set it up first enter the command `ssh-keygen` on your computer
+
+When prompted to enter a passpharse, simply press enter.
+
+Then, if your on Windows, enter the command `ssh-keygen -t ed25519`
+
+After these steps are completed, the private and public keys have been created and stored in the .ssh folder.
+
+Next, log into the server computer and enter the command `mkdir .ssh`
+
+Exit the server computer using the command `exit` 
+
+Back on the client computer, enter `scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys`
+
+(replace the username template with your specific username)
+
+The commands `ssh` and `scp` should now work without a password.
+
+This is an example of using `ssh` after creating ssh keys.
+
+![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-08-at-6.38.18-PM.png)
+
+
+
 
   
