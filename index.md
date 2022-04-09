@@ -71,3 +71,12 @@ Create a file called HelloWorld.java, and copy the following into it:
             System.out.println(System.getProperty("os.name"));
     
     } 
+
+Run HelloWorld.java in VS Code and observe the output. Then enter the command:
+
+`scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/` 
+
+(with the "zz" replaced by your specific characters)
+  
+  
+  
