@@ -32,7 +32,7 @@ Then, type in your password for your AD login. You will not see the characters f
  
 If done correctly, you will see something like this in your terminal:
 
-![Image](https://github.com/SathyaVen/Lab-Report-1---Week-2/blob/876732b8bd4714f18106e7f28f8d498067cbb55e/Screen%20Shot%202022-04-08%20at%2011.43.44%20AM.png)
+![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-08-at-11.43.44-AM.png)
 
 ## Trying Some Commands
 
