@@ -85,6 +85,8 @@ The file has been copied to the server, use the ls command to view it in the dir
 
 Finally, compile and run HelloWorld.java on the server and observe the output.
 
+Here is an example of the output on the server:
 
+![Image](https://github.com/SathyaVen/Lab-Report-1---Week-2/blob/2f9cf2018901ebecf28453c05a9f186f5c12739b/Screen%20Shot%202022-04-08%20at%206.38.18%20PM.png)
 
   
