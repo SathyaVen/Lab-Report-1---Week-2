@@ -62,19 +62,20 @@ Here is an example of one of the commands:
 ## Moving Files with `scp`
 The command `scp` allows us to copy files back an forth between the client and server computer.
 
-Create a file called HelloWorld.java, and copy the following into it:
+Create a file called WhereAmI.java, and copy the following into it:
 
-    class HelloWorld {
+       class WhereAmI {
+             public static void main(String[] args) {
+                   System.out.println(System.getProperty("os.name"));
+                   System.out.println(System.getProperty("user.name"));
+                   System.out.println(System.getProperty("user.home"));
+                   System.out.println(System.getProperty("user.dir"));
+       }
+     }
 
-        public static void main(String[] args) {
-  
-            System.out.println(System.getProperty("os.name"));
-    
-    } 
+Run WhereAmI.java in VS Code and observe the output. Then enter the command on your computer:
 
-Run HelloWorld.java in VS Code and observe the output. Then enter the command on your computer:
-
-`scp HelloWorld.java cs15lsp22zz@ieng6.ucsd.edu:~/` 
+`scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/` 
 
 (with the "zz" replaced by your specific characters)
   
