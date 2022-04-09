@@ -130,7 +130,7 @@ There are ways to optimize how you run commands. Here are a few tips
 
 Here is an example of running multiple commands in one line:
 
-![Image](https://i.ibb.co/Qk36mcP/Screen-Shot-2022-04-09-at-4-17-45-PM.png)
+![Image](https://www.linkpicture.com/q/Screen-Shot-2022-04-09-at-4.23.05-PM.png)
 
 
 
